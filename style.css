@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(243, 169, 169);
+}
+
+.Hello{
+    background-color: rgb(224, 138, 155);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 4vw;
+    color: rgb(255, 204, 189);
+    
+    border-width: 5px;
+    border-color: rgb(248, 73, 131);
+    border-style: solid;
+
+    margin-top: 0px;
+    padding: 40px;
+
+
+    list-style-type: none;
+    
+    text-align: center;
+}
+
+.h2{ /*a greeting*/
+    
+    background-color: rgb(163, 121, 175);
+
+    border-color: rgb(134, 83, 158);
+    border-style: solid;
+    border-width: 5px;
+
+    color: rgb(210, 197, 255);
+    font-family: cursive;
+    font-size: 3vw;
+
+    margin-right: 60vw;
+    padding:30px
+}
+
+.p1{
+    display: flex;
+    justify-content: center;
+
+    background-color: rgb(255, 167, 134);
+
+    border-color: rgb(241, 205, 103);
+    border-style: solid;
+
+    color: rgb(255, 248, 189);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1,2vw;
+
+    margin-right: 40vw;
+    padding: 20px;
+}
+
+.p2{
+    display: flex;
+    justify-content: center;
+
+    background-color: rgb(139, 213, 216);
+
+    border: rgb(152, 169, 184);
+    border-style: solid;
+
+    color: rgb(73, 127, 143);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0,2vw;
+}
+
+.f1{
+    display: flex;
+    justify-content: center;
+
+    margin-top: 2vw;
+    margin-left: 30vw;
+    margin-right: 30vw;
+    
+    background-color: rgb(241, 158, 50);
+
+    border: rgb(190, 124, 100);
+    border-style: solid;
+
+    color:rgb(255, 215, 107);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.f2{
+    display: flex;
+    justify-content: right;
+    margin-top: 10vw;
+    margin-left: 90vw;
+
+    background-color: darkseagreen;
+
+    border: darkolivegreen;
+    border-style: solid;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1vw;
+    font-weight: bold;
+
+}
